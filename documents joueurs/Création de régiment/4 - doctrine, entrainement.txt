@@ -1,0 +1,37 @@
+-formation serrée (2 points) : les troupes sont entrainées à combattre en rang serrés, travaillant en tant que formation plutôt qu'au niveau individuel
+
+-robustes (3 points) : le régiment ne recule pas devant l'adversité, et se bat dans des situations où la retraite serait peut-être préférable.
+
+-ennemi juré (3 points) : que ce soit par haine ancestrale, histoire de conflit, ou par simple habitude acquise en campagne, le régiment est particulièrement efficace contre un des ennemis de l'humanité.
+
+-combattants endurcis (2 points) : les troupes du régiments ne craignent pas le combat rapproché, et sont plus que capables d'y affronter leurs adversaires.
+
+-discipline de fer (3 points) : le régiment est connu pour sa loyauté, discipline et son sens du devoir. Les hommes n'hésitent pas au moment de combattre et de suivre les ordres.
+
+-tireurs de précision (4 points) : le régiment met l'accent sur la précision des tirs, et il est attendu de chaque homme qu'il soit expert au maniement de son fusil laser.
+
+-survivalistes (4 points) : le régiment est doué quand il s'agit de survivre dans la nature, et ses hommes sont experts à la survie dans un certain type de terrain, mais aussi à y combattre et à trouver l'ennemi.
+
+-anti-aérien (4 points) : le régiment, quelque soit les moyens utilisés, garde un oeil sur le ciel et tente d'en descendre tout aéronef ennemi.
+
+-chasseurs de char (4 points) : le régiment est spécialisé dans l'affrontement contre les blindés ennemis, cherchant les points faibles de ceux-ci pour mieux les abattre.
+
+-combat rapproché (5 points): le régiment brille dans les combats qui se jouent à bout portant, que ce soient dans les tunnels des ruches, les mines de colonies lointaines ou les ruines d'un bloc d'habitation. Ils bénéficient de meilleures protections et d'armes spécifiques pour le combat au contact.
+
+-lanciers lourds (5 points) : ce régiment de cavalerie est bâti pour charger et anéantir l'ennemi au moment du choc, grâce à des montures massives et des lances de cavalerie.
+
+-Infiltrateurs (4 points) : le régiment utilise la furtivité, et la ruse pour mener des opérations clandestines, du genre de celles que les troupes de choc hésiteraient avant d'accepter.
+
+-Tirailleurs (4 points) : régiment de cavalerie hautement mobile, et comptant sur le terrain pour protéger ses déplacements.
+
+-Croisés (3 points) : les hommes de ces régiments voient leur service au sein de la garde non seulement comme un devoir, mais comme une croisade visant à purger la galaxie.
+
+-Défenseurs de la foi (2 points) : le régiment a des liens forts avec l'adeptus ministorum, l'ecclésiarchie. Il est fréquemment accompagné de nombreux confesseurs et prêtres, et se bat donc souvent sous le regard de l'église.
+
+-défenseurs de l'omnimessie (3 points) : le régiment a des liens forts avec l'adeptus mechanicus, qui lui prête parfois assistance. Les troupes sont par ailleurs souvent habituées à utiliser la technologie.
+
+-démolisseurs (4 points) : le régiment se spécialise dans les travaux de démolition, se reposant sur de puissants explosifs pour accomplir son oeuvre.
+
+-sapeurs (3 points) : Le régiment travaille fréquemment en tant que génie militaire, travaillant à ériger de nombreuses fortifications à partir des matériaux locaux, parfois au mépris des règlements du munitorum.
+
+-snipers (2 points) : le régiment dispose de troupes spécialement entrainées à éliminer les officiers et meilleurs combattant ennemis à longue distance.

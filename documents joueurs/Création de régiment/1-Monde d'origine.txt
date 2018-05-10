@@ -1,0 +1,35 @@
+-Monde mortel (3 points) :+3 à deux 2 parmis Perception, Force et robustesse; survie; parler; au choix : sommeil léger, réflexes éclairs ou résistance(poison);méfiance avec les étrangers (-10 aux tests d'interaction avec les étrangers); 2 points de blessure supp.
+
+-Monde forteresse (3 points) : +3 à 2 parmis capacité de tir, volonté et robustesse; connaissance (guerre, Imperium, garde impériale) et langue (bas gothique); ennemi juré (au choix); 1 parmis : nerfs d'acier ou sprint; né pour la guerre (test de volonté pour aller contre les règles).
+
+-Noblesse (3 points) : +3 à 2 parmis : sociabilité, intelligence, capacité de tir; connaissance(administratum), enquête (inquiry), langue(haut gothique); parler; honneir et devoir (malus pour interagir avec la plèbe, bonus avec la haute);ressources abondantes (bonus aux tests de logistique); au choix : air d'autorité ou pair(noblesse); -1 blessure.
+
+-Monde ruche (3 points) : +3 à deux parmis : agilité, sociabilité et perception; connaissance(Imperium), bluff, langue (bas gothique); habitués à la foule (bonus pour se déplacer dans la foule); ruchard(malus aux tests de survie non-urbains); au choix : sens amélioré (ouïe), paranoia ou rien de remarquable; -1 blessure au départ.
+
+-Monde impérial(1 point) : +3 à la volonté et une carac au choix; connaissance (credo imperial, imperium), langue(bas gothique); ignorance bénie (malus aux tests de connaissances interdites); haine (mutants).
+
+-Colonie pénale (2 points) : +3 à deux parmis : agilité, force, robustesse; intimidation et langue (bas gothique); pair (milieux criminels) ou combat de rue; louches (bonus aux tests de logistique pour le marché noir); vermine (seulement 15 points pour déterminer le kit de départ du régiment); 1 blessure supplémentaire.
+
+-Pénitents (3) : +3 à deux parmi : sociabilité, robustesse ou volonté; connaissance (ecclésiarchie, credo impérial), intimidation et langue(bas gothique); 1 au choix : nerfs d'acier, orthoproxy ou foi inébranlable; Une seule vie à donner (test nécessaire pour se replier); zèle inarrêtable (relance des test de charme pour inspirer du zèle); +2 blessures au départ.
+
+-Schola progenium (3 points) : +3 volonté, +3 à capacité de combat ou de tir; connaissance(guarde impériale, imperium, guerre), langue (haut et bas gothique); air d'autorité ou foi inébranlable; 1 blessure supplémentaire.
+
+-Agri-monde (3 points) : +3 à 2 parmis : sociabilité, force, robustesse; langue (bas gothique), opérer (véhicules terrestres), connaissance académique (bêtes); Un avec la terre (bonus à tous les tests impliquant des créatures domestiquées ou pour reconnaiter/gérer des plantes); aveugles aux horreurs (malus pour résister au bluff, gains de folie doublés la première fois); 2 blessures supplémentaires au départ.
+
+-Monde sauvage (4 points) : +3 à 2 parmis agilité, force et robustesse; vigilance, parade, intimidation ou larcin; parler; embuscade ou frénésie; la violence résoud tout (test pour ne pas résoudre les problèmes par la violence); suspicieux de l'esprit de la machine (malus sur certaines compétences liées à la technologie/médecine moderne); 2 blessures supplémentaires.
+
+-monde féodal (4 points) : +3 à 2 parmis robustesse, force, et capacité de combat; athlétisme et connaissance(guerre); parler; champion ou équipier; suspicieux de l'esprit de la machine (malus sur certaines compétences liées à la technologie/médecine moderne);  1 blessure supplémentaire.
+
+-monde forge (4 points) : +3 à 2 parmis intelligence, perception, robustesse; connaissance (adeptus mechanicus, tech), langue (bas gothique, techna lingua), logique; pair(adeptus mechanicus); truc pour la technologie ou technologie d'armes; isolés par les machine (malus pour interragir avec les non-mechanicus); 1 blessure de moins au départ;
+
+-monde frontalier (4 points) : +3 à 2 parmis agilité, capacité de tir ou perception; vigilance, langue (bas gothique), naviguer (surface) et survie; sens du combat ou dégainer rapidement; opérer indépendamment (cohérence d'esscouade sur une porté de 15 mètres); méfiant envers l'autorité (-20 pour interragir avec une figure d'autorité inconnue.
+
+-Colonie minière (3 points) : +3 à 2 parmis agilité, perception et robustesse; vigilance, connaissance (tech), langue (bas gothique), usage de la technologie; sens amélioré (ouïe) ou résistance (froid, chaud ou poison); rats des tunnels (bonus à la vigilance et pour se retrouver sous terre); inhabitué à la lumière (malus en lumière vive), +1 blessure au départ.
+
+-Les Lathès (4 points) : +3 intelligence et +3 en perception ou capacité de tir; connaissances (adeptus mechanicus, tech), langue (bas gothique, techna lingua), logique, entrainement en tech-use; Implants du mechanicus;isolés par les machine (malus pour interragir avec les non-mechanicus);soldats de l'omnimessie (les personnages comptent comme étant des technoprêtres pour les prérequis).
+
+-Monde post-apocalyptique (3 points) : +3 à 2 parmis compétence de tir, de corps à corps ou perception; vigilance, langue(bas gothique) et survie; pleins de ressources (bonus pour bricoler et trouver des ressources de base); 1d5 points de folie; Résistance (froid, radiation ou peur).
+
+-monde chapelle (3 points) : +3 sociabilité, +3 en capacité de combat ou volonté; connaissance (ecclésiarchie, credo impérial), langue (bas gothique); parler (haut gothique); vertu d'ignorance (malus aux tests de connaissances interdites); haine (au choix); armure de la foi (possibilité de diminuer le gain de points de corruption 1/séance).
+
+-nés dans le vide (3 points) : +3 volonté et +3 en agilité ou perception; connaissance (tech), langue (bas gothique), navigation (stellaire), opérer (aéronautica), tech-use; enchantés (peut économiser des points de chance); mauvais présages (malus pour interragir avec des terrestres); habitués au vide; -1 blessure au départ.

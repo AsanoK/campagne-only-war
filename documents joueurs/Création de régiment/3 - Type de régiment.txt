@@ -1,0 +1,35 @@
+-régiment blindé (4 points): le régiment est le poing blindé de la garde, divisé en escadrons de tanks, dont le robuste Leman Russs, véritable bête de somme de la garde.
+
+-régiment de reconnaissance (3 points) : ces troupes opèrent loin des lignes impériales afin de localiser et identifier les objectifs à atteindre. 
+
+-régiment de saut (3 points) : Le régiment réalise couramment ce que toute unité considère comme le pire des scénarios : déployés sans soutiens ni armes lourdes au coeur du dispositif ennemi, ils doivent tenir face à l'innévitable contre-offensive.
+
+-chasseurs-tueurs (3 points) : ces régiments servent souvent de réserve, attendant le moment propice pour engager leur puissance de feu supérieure. Toutefois, ils n'ont pas la résistance pour tenir aisément une ligne eux-même.
+
+-infanterie légère (2 points) : Si ils manquent la puissance de feu et la robustesse pour combattre sur les lignes de front les plus denses, ces régiments opèrent fréqquemment dans les terrains complexes, ou leur flexibilité plus grande leur permet de lancer des escarmouches meutrières.
+
+-infanterie de ligne (2 points) : ces régiments sont l'ossature de la garde impériale, tenant les lignes de front et brisant l'adversaire sur des centaines de champs de bataille.
+
+-infanterie mécanisée (3 points) : le régiment a la chance de pouvoir embarquer ses troupes dans des transports de troupe, ce qui lui permet de se déployer beaucoup plus rapidement que le reste des troupes. Ils peuvent servir de réserve, de force d'exploitation, ou de soutien pour des unités blindées.
+
+-infanterie de siège (2 points) : ces régiments sont proches de ceux d'infanterie de ligne. Toutefois, ils sont spécialistes dans l'art de creuser des tranchées et d'ériger des fortifications de campagne, ou inversement de les battre en brèche.
+
+-régiment d'artillerie (4 points) : ces régiments soutiennent l'avancée des autres troupes par un pilonnage intensif, faisant trembler la terre et se terrer l'ennemi qui n'a pas été pulvérisé. Leurs relations avec les autres régiment sne sont toutefois aps toujours simples, en raison des nombreuses "croix noires" (tirs amis dans le jargon de la garde).
+
+-Régiment de guérilla (4 points) : ces rares unités sont formées pour agir derrière les lignes ennemis : sabotages, assassinats, infiltration.... En raison de tout cela, ils opèrent généralement sans aucun soutien impérial une fois leur mission lancée.
+
+-grenadiers (4 points) : les grenadiers sont l'infanterie lourde de la garde, mieux protégés et équipés, et comptent souvent parmi ses meilleures troupes.
+
+-régiments de reconnaissance lourde (8 points): la quasi-totalité des régiments de reconnaissance utilisent les marcheurs sentinelles. Les régiments de reconnaissance lourde équipent toutes leurs troupes de ces marcheurs. Si ils sont trop fragiles pour des engagements prolongés, leur puissance de feu leur accorde le droit d'oser plus que leurs homologues plus classiques.
+
+-régiment de cavalerie (5 points): une sorte d'anachronisme pour certain, une force sur laquelle compter pour d'autres. Ils profitent de leur grande mobilité et de leur puissance de choc pour frapper les formations ennemis là où elles sont le plus vulnérables.
+
+-régiment d'assaut rapproché ( 3 ou 5 points) : ces régiments sont peu courant, car ils favorisent un style de combat que le reste de la garde n'apprécie guère : le combat à portée courte, voire au corps à corps. Certains de ces régiments utilisent des transports de troupe chimère pour arriver plus vite là ou est leur place.
+
+-Régiment mécanisé de reconnaissance (3 points): ces régiments n'utilisent pas de sentinelles et préfèrent utiliser des véhicules de reconnaissance salamandre. Ceux-ci sont basés sur le chassis de la chimère, et disposent de capacité de communication et d'un moteur amélioré.
+
+-régiment de reconnaissance rapide (8 points) : souvent associés avec les troupes élyséennes, ils privilégient à tout autre véhicule le tauros, sorte de buggy rapide, mais relativement peu courant dans les lignes logistiques  de la garde. Ce qu'ils perdent en polyvalence, ils gagnent en vitesse.
+
+-régiment de récupération (3  points) : au cours des combats, les unités de la garde, et notamment ses blindés, subissent de lourds dégâts matériels. Ce sont les régiments de récupérations qui sont chargés de récupérer ces précieuses pièces et les carcasses parfois vénérables des véhicules trop endommagés.
+
+-régiment blindé super-lourd (7 points) : quand la puissance du leman russ ne suffit plus, les véhicules super-lourds peuvent être déployés. Leur puissance de feu n'a d'égale que leur blindage, et bien souvent, leur simple vue suffit à briser le moral des troupes ennemies.

@@ -1,0 +1,37 @@
+-suspicion (3 points): justifiée ou non, le régiment subit une attention non-désirée. Les actions de ses membres sont analysées par quelqu'un et ce quelqu'un ne les apprécie pas.
+
+-Condamné (6 points) : Le régiment a été condamné pour une raison ou une autre à expier ses fautes sur le champs de bataille. Pour cela, ils ne sont pas envoyés au-devant du danger, mais bien du suicide pur et simple.
+
+-Culte de la chevalerie (3 points): pour le régiment, la volonté de l'Empereur doit être accomplie d'une certaine façon, et certaines méthodes ne sont pas acceptables. Evidemment, dans une galaxie pleine de dangers mortels, ce n'est pas un comportement facile à tenir.
+
+-Déshonoré (3 points): La réputation du régiment est ternie par un échec, et si il n'y a pas eu de sanction, les troupes en ressentent toujours le poids
+
+-Maudits (7 points) : pour ce régiment, rien ne se passe jamais comme prévu, aucun de ses plans ne survivant jamais au contact avec l'ennemi.
+
+-Liés par l'honneur (4 points) : Les hommes et femmes du régiments ont une haute idée de l'honneur, et n'acceptent jamais que celui-ci soit insulté.
+
+-Commandement incompétent (5 points) : la chaine de commandement est un désastre de nullité, de haut en bas. Tous les ordres sont vus avec suspicion par les troupes, qui perdent grandement en efficacité.
+
+-Monde natal perdu (5 points) : le monde natal du régiment n'existe plus, détruit par un des ennemis de l'imperium, ou par celui-ci même, au cours d'un exterminatus.
+
+-mauvaise réputation (3 points) : pour une raison ou une autre (vraie ou non), le régiment a une mauvaise réputation au sein de la garde impériale : incompétence, fainéantise .... Cela complexifie considérablement les interactions avec les autres unités impériales.
+
+-mal réapprovisionnés (4 points) : toute les unités font un jour les frais des caprices du Munitorum. Ce régiment en revanche, aimerai que cela n'ai duré qu'un jour : en raison de lignes de ravitaillement trop allongées, d'un problème administratif ou d'une campagne acharnée, il n'y a presque plus de matériel pour le régiment, et celui-ci n'est pas remplacé.
+
+-Rivalité régimentaire (2 points) : Quelque chose dans l'histoire du régiment les rends hostile à un autre, et réciproquement : rivalité des officiers, compétition au sujet d'une ancienne bataille, bagarres entre les soldats.... Si cela est généralement bénin, cela peut parfois aller jusqu'au meurtre.
+
+-Marqué par les pertes (2 points) : le régiment a récemment souffert de lourdes pertes, et a été réduit à un nombre d'homme dangereusement bas. Même si le nombre d'homme a pu remonter, les troupes sont marquées par ce qui s'est passé.
+
+-Peu nombreux (5 points) : le régiment est de petite taille, que ce soit à cause de son recrutement, de ses doctrines très spécialisées, ou tout autre raison. Cela force les troupes à éviter les engagements brutaux qui sont la signature de la garde impériale.
+
+-Conscrits (3 points) : si pour la plupart des soldats, servir dans la garde est un choix, ce n'est pas toujours le cas. Il arrive que des régiments soient levés et les troupes qui le composent soient forcées d'en faire partie. Evidemment, ces formations ne sont pas les plus fiables.
+
+-iconoclastes (3 points) : le régiment a de mauvaises relations avec l'ecclésiarchie : peut-être que son monde natal n'est pas très fervent, ou qu'il ne vénère pas l'empereur d'une manière que le ministorum juge tout à fait orthodoxe. Il est donc surveillé de près afin de ne pas répandre ses croyances.
+
+-primitifs (5 points) malgré les efforts du munitorum, rien ne semble efficace pour enseigner aux sauvages qui forment le régiment les rudiments même les plus basiques de la technologie.
+
+-corrompus (3 points) le régiment souffre d'une corruption liée au warp, et celle-ci est passée sous les radars du munitorum. Ce secret doit être caché au reste de l'imperium, sous peine de mort.
+
+-traitres (5 points) : le régiment s'est détourné de la lumière de l'empereur, et combat maintenant la garde impériale.
+
+-perdus dans le warp (4 points) le régiment a réussi à sortir du warp, mais pas au bon moment, ou au bon endroit.... Evidemement, cela ne va pas sans conséquence, le régiment ayant pu être déclaré mort ou traitre par le munitorum. Officiellement, ce n'est plus un régiment opérationnel, ce qui complique toute interaction avec la garde.

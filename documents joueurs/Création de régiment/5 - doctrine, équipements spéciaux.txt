@@ -1,0 +1,37 @@
+-augmentiques (2 points) : pour une raison ou une autre, le régiment dispose de nombreuse améliorations augmentiques pour soigner les blessures les plus graves.
+
+-caméléoline (3 points)  : les devoirs du régiments impliquant de la discrétion, il a eu la chance de bénéficier de caméléoline, un matériau changeant de couleurs en fonction de son milieu.
+
+-Drogues de combat (2 points) : utilisées fréquemment par les détachements pénaux et d'autres unités nécessitant un encouragement supplémentaire, les drogues de combat peuvent fournir le coup de fouet nécessaire pour faire agir les troupes.
+
+-Démolition(3 points) : l'unité utilise dans le cadre de ses devoirs de nombreux explosifs, et dispose d'une bonne logistique à ce sujet.
+
+-Récupérateurs (3 points): le régiment considère que les procédures du munitorum sont un frein à l'efficacité, et n'hésite pas à "récupérer" des équipements supplémentaires, que ce soit sur le champ de bataille, ou dans les stocks des régiments voisins.
+
+-armes de guerriers(3 points) : les guerriers de mondes primitifs sont souvent peu efficaces au maniement du fusil laser, et servent alors avec des équipement de mêlée.
+
+-bien approvisionné (3 points): le régiment dispose de ressources importantes, ou est sur le sommet de la liste pour le réapprovisionnement.
+
+-montures de cavalerie (5 points) : chaque membre du régiment dispose d'une monture : cheval, grox, ou autre.... Les soldats sont responsables des soins apportés à leur monture.
+
+-opérations sous couverture (5 points) : Le régiment opère fréquemment derrière les lignes ennemies, voire au milieu d'elles, parfois sous déguisement.
+
+-guerre électro-vox (4 points) : le régiment dispose d'équipements et de connaissances visant à faciliter la communication des unités alliées, et limiter celles des troupes ennemies.
+
+-observation avancée(4 points) : le régiment dispose des moyens permettant d'appeler des frappes d'autres unités : artillerie, bombardiers, et même peut-être vaisseaux de guerre en orbite basse.
+
+-avant-garde (6 points) : considérés comme l'élite des unités de siège, ces troupes sont le fer de lance des assauts de fortifications . Leurs missions sont souvent opérées en conjonctions avec les troupes de choc.
+
+-artillerie automatisée (2 points) : le régiment utilise fréquemment des tourelles automatiques tarantules.
+
+-liés au culte de la machine (3 points) : les liens du régiment avec le culte mechanicus lui permettent d'obtenir plus facilement des équipements dont la technologie est rare et précieuse.
+
+-amélioration cybernétiques (3 points) : la plupart des troupes du régiment sont améliorés grâce au savoir-faire du clergé de Mars.
+
+-Tunnelliers (2 points) : le régiment fait usage d'équipement spéciaux pour creuser des gallerie, notamment dans le cadre de guerre de siège. Pour cela, se sont le plus souvent des foreuse Hades qui réalisent la dernière poussée.
+
+-reliquaires(1 point) : le régiment a en sa garde plusieurs reliques, et considère comme un honneur le droit de les porter au combat.
+
+-batteries sabres (3 points) les batteries sabres, utilisées en nombre par le régiment, permettent à un garde de manier plusieurs armes lourdes simultanément, et sont donc très appréciées des régiments devant tenir des positions stratégiques, ou nettoyer le ciel.
+
+-accompagnement de serviteurs (2 points) : intégrés au sein des escouades de gardes, on trouve de nombreux serviteurs, cyborgs sans âmes ni esprits.

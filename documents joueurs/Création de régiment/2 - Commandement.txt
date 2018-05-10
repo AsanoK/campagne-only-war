@@ -1,0 +1,15 @@
+-Bilieux (2 points) : de mauvaise huemeur, paranoïaque, se méfie tout le temps de trahison. Encourage la vigilance et la méfiance au sein de ses troupes.
+
+-Circonspect (2 points) : commandement équilibré et décisions mesurées, bien que souvent très (trop?) prudentes. Encourage les hommes à réfléchir avant d'agir.
+
+-Colérique (2 points) : commandement décidé et menant depuis l'avant, rapide à énerver et facile à faire tomber dans des pièges. Les hommes sont toujours prêts à l'action et habitués aux rigueurs des campagnes.
+
+-Fixés (1 point) : Les décisions sont rapides et ne changent que très difficilement. Le régiment peut souvent être qualifié d'inflexible, me^me au coeur de champs de bataille évoluant rapidement.
+
+-Mélancolique (2 points) : le commandement est prudent et réfléchi, mais sa volonté n'est plus ce qu'elle était, usée par les combats. L'hésitation et le pessimisme forcent les hommes à devoir se débrouiller plus indépendamment.
+
+-Phlegmatique (1 point) : le commandement est calme, et s'exprime peu. Quand il parle par contre, ses paroles ont été pesées soigneusement. Les troupes ont appris à suivre leur chaine de commandement.
+
+-sanguin (2 points) : le commandement est confiant et optimiste, bien que parfois aveuglé par ses rêves de gloire et de triomphe. Capables de motiver les troupes par de grands discours, ils se heurtent parfois à de dures réalités. Les troupes doivent se battre pour survivre, non seulement à l'ennemi, mais aussi à la soif de gloire de leurs officiers.
+
+Dévôt (1 point) : le commandement est pieu et loyal à l'impérium, mais manque cruellement d'initiative, d'imagination et d'audace. Les officiers servent donc souvent à répéter platement les paroles de leurs supérieurs. Les hommes doivent eux-même conserver la foi si ils souhaitent survivre sans un commandement efficace.
