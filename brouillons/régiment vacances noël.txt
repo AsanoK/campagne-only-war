@@ -1,0 +1,9 @@
+monde natal : Colonie minière (3)
+commandement : circonspect (2)
+type de régiment : régiment d'assaut(3)
+doctrines :
+	-brèche (2)
+	-sappeurs (3)
+	-formation serrée (2)
+désavantages : 
+	-ombre de suspicion(-3)
