@@ -1,0 +1,17 @@
+monde natal : colonie minière (3)
+commandement : phlegmatique (1)
+type de régiment : infanterie de siège (2)
+doctrines : tunnellier (2), sapeurs(3), récupérateurs (3)
+défaut régimentaire : rivalité régimentaire (2).
+amélioration de kit (30 points) : 9-70 (3), combat shotgun et 4 chargeurs (10), auspex (10),revolver(3), rouleau de 10m de barbelés(3). 
+arme spéciale favorite : lance-grenade 
+arme lourde favorite : mortier
+
+résumé : 
+caracs :+3 à 2 parmis agilité, perception et robustesse; +3 robustesse, -1 Intelligence.
+compétences : vigilance, langue(bas gothique), tech-use +20, connaissance(tech,garde impériale, guerre), sécurité, commerce(technomatériaux)
+talents:sens amélioré (ouïe) ou résistance (froid, chaud ou peur), nerfs d'acier, truc pour la technologie, haine (un régiment au choix).
+règles spéciales : rats des tunnels (bonus à la perception et navigation sous terre), inhabitué à la lumière (malus en lumière vive), récupérateurs (bonus à la logistique, mais problèmes en cas de doubles), sapeurs (bonus pour les fortifications et le terrassement).
+kit(personnel) : shotgun de combat avec 4 chargeurs, tenue pare-balle, respirateur, 4 sacs de sable vides, outil de terrassement, 9-70, revolver, 10m de barbelés en accordéon, 2 grenades à fragmentation, 2 grenades à photons, lascutter, kit de base.
+kit(par escouade) : une foreuse hades, un auspex
+blessures : +1 au départ
