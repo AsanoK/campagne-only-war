@@ -1,0 +1,15 @@
+Ennemis possibles:
+	-chaos : space marines renégats, gardes traitres, cultistes, démons, méchanicum noir, environnement corrompu, trahison et corruption....
+	-tau : guerriers de feu, exo-armure, commandos, gue'vesa, retournement d'unités impériales, kroots, missions diplomatiques
+	-orks : boyz, kult'eudl'a vitess', roketBoyz', mek', bizar'boy, kommando.
+	-rebelles : unités de la garde, retournement de vestes, descente aux enfers des deux camps....
+	-eldars : frappes venues de nulle part, guerilla, raids, reconnaissances et patrouilles dangereuses....
+
+Tout les fronts:
+-Assaut planétaire : le régiment se retrouve engagé dans une opération de libération planétaire, depuis les combats en orbite jusqu'aux derniers affrontements, et possiblement même au nettoyage des dernières poches de résistance à la lumère impériale. L'initiative est impériale, mais les positions retranchées et la guérilla ennemie vont se révéler coriaces.
+
+-Tenez la ligne ! : Le régiment est déployé en première ligne sur une des lignes de front. Il s'agit donc de réussir à éviter de se faire déborder par un ennemi toujours plus agressif et dangereux, et ce jusqu'à ce que d'autres unités puisse prendre le relai, ou que l'ennemi soit mis en fuite par le régiment. 
+
+-Gardez vos amis proches... : le régiment est déployé sur un front sur lequel le moral est bas, et la propagande ennemie forte, à moins qu'un officier supérieur n'ait des motivations troubles... Dans tous les cas, différencier l'ami de l'ennemi ne sera pas facile dans cette campagne, qui se déroulera presque autant sur le front arrière que sur des lignes de bataille claires.
+
+Idée générale : mettre en place des campagnes arborescentes, dans lesquels les missions réalisées dépendent des précédentes, avec potentiellement plusieurs fins. Un certains nombres de missions et évènements génériques pourront s'insérer suivant les besoins sur les arcs entre les missions.
