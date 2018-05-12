@@ -1,0 +1,53 @@
+objectif:
+    prendre et tenir
+        -cible stratégique
+        -tête de pont
+        -assaut massif
+    reconnaissance
+        -patrouille défensive
+        -reco avancée
+        -reco éloignée
+        -arrière/nettoyage
+	-poste de surveillance/avant-poste
+    raid
+        -cible stratégique
+        -concentration adverse
+	-opération préliminaires (sur les avant-postes et/ou les comm')
+    position défensive
+        -ligne défensive
+        -guerre de tranchée
+        -retraite
+	-garnison
+	-tenue d'avant-poste
+complications:
+    présence ennemie imprévue
+        -trop
+        -rien du tout
+        -ennemi préparé
+	-officier très efficace
+	-embuscade
+    cible d’opportunité
+        -élément stratégique
+        -individu important
+    problème de logistique
+        -équipement manquant
+        -élément précieux
+    nouvelle organisation
+        -peloton/compagnie de bleus….
+        -nouvel officier/spécialiste
+        -promotion temporaire
+        -officier supérieur abattu/HS
+    position problématique
+        -position loin en avant
+        -derrière les lignes ennemies
+        -position isolée/enclavée/assiégée
+    terrain problématique
+        -terrain hostile
+        -terrain peu adapté à la mission
+        -faune/flore agressive
+        -zone piégée/minée
+    problèmes de la garde :
+	-équipement inadapté
+	-problèmes entre régiments
+	-problèmes au sein du régiment (discipline, marché noir, ...)
+opposition:

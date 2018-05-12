@@ -1,0 +1,20 @@
+monde d'origine : monde forteresse (3)
+Commandement : sanguin (2)
+type de régiment : infanterie de ligne (2)
+doctrines : formation serrée(2), tireurs de précision (4)
+défaut régimentaire : marqué par les pertes (2)
+amélioration de kit (32 points) : 2 grenades fumigènes(10), stub revolver (3), second uniforme de terrain (2), respirateur (8), outil 9-70 (3), melee attachment (3), chrono(2).
+arme spéciale favorite: fusil de sniper
+arme lourde favorite : mortier
+
+
+Résumé : 
+	caracs : +3 à deux parmis BS, WIL & T, +3 force, -3 Intel
+	aptitude : BS
+	compétences :connaissances (guerre, imperium,garde impériale), langue(bas gothique), athlétisme
+	talents : haine (hérétiques), nerfs d'acier ou sprint, die hard, formation de combat ou équipier, rechargement rapide, deadeye shot
+	règles spéciales: ennemi honni (test de colonté pour ne pas attaquer sans merci face à des hérétiques), nés pour la guerre (test de volonté pour aller contre les règles de la garde), traumatisé (si un test de volonté est raté de deux crans ou plus, le traumatisme sonne le personnage pour un tour).
+	kit régimentaire : fusil MS Loyant avec bayonette et 4 chargeurs (arme principale), armure flak, 2 grenades frag, 2 grenades krak, 2 uniformes, manteau de pluie, revolver et 12 balles, 2 grenades fumigène, respirateur, 9-70, chrono,sac à dos, kit de repas, gourde, couverture, sac de couchage, lampe rechargeable, kit de toilette, papiers militaires, manuel d'instruction, 2 semaines de rations.
+	autre : 1d10 points de folie
+
+Fusil MS loyant (MS : munitions solides) : autogun avec opération manuelle : pas de tir en rafale ou automatique, mais qualité fiable.
