@@ -1,0 +1,18 @@
+monde natal : Monde ruche (3)
+commandement : circonspect (2)
+type de régiment : régiment blindé (4)
+doctrines : robustes (3)
+amélioration du kit régimentaire : auspex (10), jumelles (8), carabine laser de bonne qualité(5),  
+arme spéciale favorite : lance-flammes
+arme lourde favorite : bolter lourd
+
+
+résumé : 
+caracs : +3 à 2 parmis agilité, sociabilité ou perception, -3 CC, +3 intel
+compétences : connaissance(imperium), bluff, langue (bas gothique)
+règles spéciales : habitué à la foule (bonus pour se déplacer dans la foule), ruchards (malus en extérieur)
+talent : sens amélioré (ouïe) ou paranoia ou commun, anticipation
+blessures : -1 au départ
+kit (escouade) : Leman Russ
+kit (perso) : kit de maintenance béni, auspex, jumelles, carabine laser de bonne qualité, kit de base.
+aptitude : toughness

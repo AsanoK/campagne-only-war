@@ -1,0 +1,7 @@
+faire un test :
+Pour réaliser un test, on lance un d100 et on essaie d'obtenir MOINS que le score à battre. Pour un test de carac, c'est la valeur de la carac, pour un test de compétence, c'est la valeur de la carac associée, auquel peut s'ajouter un bonus si l'entrainement du personnage est suffisant. Si la compétence n'est pas possédée, il est possible de réaliser un test, en utilisant la moitié du score de la caractéristique.
+
+Attaque: Une attaque est un test de CC ou de CT (CàC ou Distance, BS et WS en VO). En cas de réussite, on inverse les dés des dizaines et des unités pour obtenir la zone touchée.
+
+Dégâts : pour les dégâts, on lance la valeur de dégâts de l'arme, à laquelle on soustrait la valeur d'armure de la zone touchée. Ce score est soustrait au score de blessure de la cible. Une cible n'ayant plus de points de blessure subit des dégâts critiques, suivant la zone touchée et le type d'armes.
+

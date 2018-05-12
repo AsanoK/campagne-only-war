@@ -1,0 +1,15 @@
+monde natal : noblesse (3)
+commandement:sanguin (2)
+type de régiment: grenadiers (4)
+doctrines : montures de cavalerie (5)
+défaut : rivalité régimentaire (2)
+améliorations de kit (30 points) : fusil laser de bonne qualité M36 (15), uniforme de parade (5), épée (5), grenade frag (5)
+
+résumé : 
+	caracs: +3 BS, +3T, -3 PER, +3 à 2 parmis Intel, Fellowship & WS
+	compétences : connaissances (administratum), enquête, langue (haut gothique), tech-use
+	règles : parler (bas gothique), devoir et honneur (bonus pour interagir avec la haute, malus avec la plèbe), ressources abondantes (bonus à la logistique)
+	talents : pair (noblesse) ou air d'autorité, Die Hard, bombardier, 
+	blessure : -1 au départ.
+	kit : lance-grenade auxilliaire, 2 grenades frag, 1 grenade krak, armure carapace légère, bouchon d'oreilles, fusil M3- de bonne qualité, uniforme de parade, épée,  monture, selle, couverture de selle, 2 fontes, 2 semaines de rations pour la monture, kit de base.
+	kit(escouade) : 2 lances-grenades
