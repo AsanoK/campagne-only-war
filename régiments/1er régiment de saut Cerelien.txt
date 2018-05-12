@@ -1,0 +1,15 @@
+monde natal : monde frontalier (3)
+commandement : colérique (2)
+type de régiment : régiment de saut (3)
+doctrines: combat rapproché (5)
+défaut : déshonnoré (3)
+amélioration du kit (34 points) : uniforme de parade (5), oreillette(8), chrono(2), photo-contacts (8), pistolet laser et 2 packs de recharge (5), arme de tir de bonne qualité (5).
+arme spéciale favorite : lance-flammes
+arme lourde favorite : lance-missile
+
+résumé:
+	caracs: +3 à 2 parmis agilité, perception et robustesse, +3 agilité, -3 sociabilité
+	compés: opérer (aeronautica)
+	talents: réactions rapides, catfall, équipier ou maître du combat
+	règles spéciales:
+	kit régimentaire : lascarabine compacte de bonne qualité avec 4 charge packs, armure carapace légère, respirateur, grav-chute, 2 frags, 2 fumis, 1 couteau monofilamentaire, uniforme de parade, uniforme, oreillette, chrono, photo-contact, pistolet laser avec 2 packs de recharge, cape imperméable, sac en bandoulière, kit d'outils de base, kit de mess et gourde, couverture et sac de couchage, lampe rechargeable, kit de toilette, plaque d'identification, manuel d'instruction, 2 semaines de rations.

@@ -20,7 +20,7 @@
 
 -observation avancée(4 points) : le régiment dispose des moyens permettant d'appeler des frappes d'autres unités : artillerie, bombardiers, et même peut-être vaisseaux de guerre en orbite basse.
 
--avant-garde (6 points) : considérés comme l'élite des unités de siège, ces troupes sont le fer de lance des assauts de fortifications . Leurs missions sont souvent opérées en conjonctions avec les troupes de choc.
+-avant-garde (6 points) : Le fer de lance des assauts de la garde impériale. Ces unités sont embarquées dans des transport de troupes et servent à briser les positions ennemies. Elles sont considérées comme l'élite de la garde.
 
 -artillerie automatisée (2 points) : le régiment utilise fréquemment des tourelles automatiques tarantules.
 

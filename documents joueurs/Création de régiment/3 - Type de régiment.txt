@@ -14,7 +14,7 @@
 
 -infanterie de siège (2 points) : ces régiments sont proches de ceux d'infanterie de ligne. Toutefois, ils sont spécialistes dans l'art de creuser des tranchées et d'ériger des fortifications de campagne, ou inversement de les battre en brèche.
 
--régiment d'artillerie (4 points) : ces régiments soutiennent l'avancée des autres troupes par un pilonnage intensif, faisant trembler la terre et se terrer l'ennemi qui n'a pas été pulvérisé. Leurs relations avec les autres régiment sne sont toutefois aps toujours simples, en raison des nombreuses "croix noires" (tirs amis dans le jargon de la garde).
+-régiment d'artillerie (4 points) : ces régiments soutiennent l'avancée des autres troupes par un pilonnage intensif, faisant trembler la terre et se terrer l'ennemi qui n'a pas été pulvérisé. Leurs relations avec les autres régiments ne sont toutefois pas toujours simples, en raison des nombreuses "croix noires" (tirs amis dans le jargon de la garde), et de leur statut de "planqués".
 
 -Régiment de guérilla (4 points) : ces rares unités sont formées pour agir derrière les lignes ennemis : sabotages, assassinats, infiltration.... En raison de tout cela, ils opèrent généralement sans aucun soutien impérial une fois leur mission lancée.
 
