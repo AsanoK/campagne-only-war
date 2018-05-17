@@ -11,5 +11,5 @@ résumé :
 	règles : parler (bas gothique), devoir et honneur (bonus pour interagir avec la haute, malus avec la plèbe), ressources abondantes (bonus à la logistique)
 	talents : pair (noblesse) ou air d'autorité, Die Hard, bombardier, 
 	blessure : -1 au départ.
-	kit : lance-grenade auxilliaire, 2 grenades frag, 1 grenade krak, armure carapace légère, bouchon d'oreilles, fusil M3- de bonne qualité, uniforme de parade, épée,  monture, selle, couverture de selle, 2 fontes, 2 semaines de rations pour la monture, kit de base.
+	kit : lance-grenade auxilliaire, 2 grenades frag, 1 grenade krak, armure carapace légère, bouchon d'oreilles, fusil M36 de bonne qualité, uniforme de parade, épée,  monture, selle, couverture de selle, 2 fontes, 2 semaines de rations pour la monture, kit de base.
 	kit(escouade) : 2 lances-grenades

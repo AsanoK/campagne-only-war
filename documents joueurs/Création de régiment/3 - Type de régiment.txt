@@ -6,7 +6,7 @@
 
 -chasseurs-tueurs (3 points) : ces régiments servent souvent de réserve, attendant le moment propice pour engager leur puissance de feu supérieure. Toutefois, ils n'ont pas la résistance pour tenir aisément une ligne eux-même.
 
--infanterie légère (2 points) : Si ils manquent la puissance de feu et la robustesse pour combattre sur les lignes de front les plus denses, ces régiments opèrent fréqquemment dans les terrains complexes, ou leur flexibilité plus grande leur permet de lancer des escarmouches meutrières.
+-infanterie légère (2 points) : Si ils manquent la puissance de feu et la robustesse pour combattre sur les lignes de front les plus denses, ces régiments opèrent fréquemment dans les terrains complexes, ou leur flexibilité plus grande leur permet de lancer des escarmouches meutrières.
 
 -infanterie de ligne (2 points) : ces régiments sont l'ossature de la garde impériale, tenant les lignes de front et brisant l'adversaire sur des centaines de champs de bataille.
 
