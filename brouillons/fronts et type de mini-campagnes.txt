@@ -12,4 +12,9 @@ Tout les fronts:
 
 -Gardez vos amis proches... : le régiment est déployé sur un front sur lequel le moral est bas, et la propagande ennemie forte, à moins qu'un officier supérieur n'ait des motivations troubles... Dans tous les cas, différencier l'ami de l'ennemi ne sera pas facile dans cette campagne, qui se déroulera presque autant sur le front arrière que sur des lignes de bataille claires.
 
+-prendre et tenir : la planète sur laquelle le régiment se trouve ne bénéficie que d'une fraction infime de l'effort de guerre impérial dans la région, et les combats sont plutôt sporadiques. Il s'agit ici de tenir avec des lignes de ravitaillement faibles, peu de troupes et encore moins de renforts, tout en sachant que l'ennemi est potentiellement dans la même situation.
+
+-guérilla urbaine : le combat pour la planète s'enlise dans une zone fortement urbanisée. Si les combats ne sont pas forcément très intenses, ils peuvent survenir à n'importe quel moment. Et si le conflit dure, des renforts ennemis pourraient bien transformer ce théâtre d'opération en enfer urbain, où chaque position sera âprement disputée par les deux camps.
+
+
 Idée générale : mettre en place des campagnes arborescentes, dans lesquels les missions réalisées dépendent des précédentes, avec potentiellement plusieurs fins. Un certains nombres de missions et évènements génériques pourront s'insérer suivant les besoins sur les arcs entre les missions.
