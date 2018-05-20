@@ -1,0 +1,6 @@
+monde natal : monde impérial (1)
+commandement : fixé (1)
+type de régiment : infanterie de ligne (2)
+doctrines : discipline de fer (3), démolisseur (4), formation serrée (2),croisés (3)
+défaut régimentaire :  commandement incompétent (5)
+amélioration du kit(32) : pistolet laser (5), chrono(2), grenade krak(15), stimm et injecteur(8)
