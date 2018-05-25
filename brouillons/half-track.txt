@@ -1,0 +1,23 @@
+Greyhound Halftrack
+
+A simple vehicle, the Greyhound is well loved by the many soldiers who use it for its ruggedness and decent level of protection (against small arms fire; anything else tears through them like paper). The vehicle is a boxy, open topped truck with long treads replacing the back wheels of the vehicle. This allows it good turning ability on roads and other built up terrain, but still gives it excellent off road characteristics for a vehicle of its type and weight.
+
+Type: Wheeled/Tracked Vehicle         Tactical Speed: 20m
+
+Speed: 75 km/hr                                   Maneuverability: +10
+
+Structural Integrity: 20                       Size: Massive
+
+Armor: 18 Front, 16 Side, 14 Rear
+
+Vehicle Traits: Rugged, Open-topped, Halftrack
+
+Crew: 1 Driver, 1 Commander (Pintle Weapon)
+
+Carrying Capacity: 10 Guardsmen and Gear
+
+Weapons: Pintle Mounted Heavy Stubber (100m, -/-/8, 1d10+4 I, Pen 3, Mag 75, Rld 2 Full, Ogryn-Proof)
+
+ 
+
+Halftrack Trait: A vehicle with this trait counts as tracked for the purpose of moving across difficult terrain, and as a wheeled vehicle in regards to maneuverability. With regards to damage, the vehicle counts critical hits as against a wheeled system. Repairs to a Halftrack's motive system take 1.5 times as long as listed in the appropriate repairs table.
