@@ -1,0 +1,8 @@
+origine : frontalier
+cmdt : audacieux
+type : saut
+doctrines: démolisseur(4),robuste
+défaut : lié par l'honneur
+arme spé : lance-flammes
+arme lourde : bolter lourd
+kit : radio, chrono,bayonette,armure qualité supérieure, laspistol
