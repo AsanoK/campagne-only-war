@@ -6,3 +6,12 @@ défaut : lié par l'honneur
 arme spé : lance-flammes
 arme lourde : bolter lourd
 kit : radio, chrono,bayonette,armure qualité supérieure, laspistol
+
+caracs : +3 à deux parmis agilité, capactité de tir et perception, +3 agilité, -3 sociabilité,+2 Inteligence
+compé: perception, langue (bas gothique), orientation(surface), survie, conduite (aérien), tech-use, conduite(terrestre)
+talents : sens du combat ou dégainer rapidement, résistance(peur), chute amortie, nerfs d'acier
+kit:lascarabine avec 4 chargeurs, bayonette, armure flak d'excellente qualité, respirateur, grav-chute, 2 grenades frag, 2 grenades fumigènes, 1kg de charge de démolition, 9-70, chrono, pistolaser (2 chargeurs)
+kit d'escouade : véhicule de démolition cyclope, radio
+aptitude : robustesse
+règles spé : indépendant (distance de cohésion d'escouade = 15m), pas confiance en l'autorité (malus pour interragir avec une figure d'autorité ne venant pas du même monde), démolisseurs (+10 aux tests pour mettre en place des explosifs), la fierté avant la vie (en cas de défi ou insulte, test de volonté avec un malus de -10 pour ne pas relever/se battre)
+

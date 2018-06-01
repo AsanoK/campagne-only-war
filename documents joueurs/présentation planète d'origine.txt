@@ -2,7 +2,7 @@ nom : Zhong shiji
 secteur : ?
 sous-secteur ?
 dîme : delta minoris
-Population : 1 200 000
+Population : 700 000 000
 
 Géographie:
 Le monde de Zhong shiji est parsemé de hautes chaines de montagnes, dûes à une activité sismique importante. Son climat est relativement tempéré, avec un équateur plus chaud et des pôles glacés.
