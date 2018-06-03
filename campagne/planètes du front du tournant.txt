@@ -1,0 +1,59 @@
+Kulth(D) : lieu des plus forts combats du front, les trois factions se battent pour elle avec toutes les ressources disponibles.
+
+Ganf magna(I) : monde mineur. Forte présence d'orks sauvages purgés régulièrement par l'imperium
+
+Sisk(I) : monde féodal, près du front ork. Subit une forte population de mutants (rumeurs d'EN et de chaos).
+
+Sabriel (N) : vaste objet artificiel. Par encore reconnu par les troupes impériales, mais en projet.
+
+Sinophia (I) : monde quasi-post-apo. Sert de point de rassemblement à la flotte et aux troupes.
+
+Cyclopea(I) : monde peu développé. Des régiments pourraient y être levé sous peu. rumeur de présence EN
+
+Sleef(N) : monde mort, et interdit d'accès par l'inquisition
+
+Kalf(I-) : monde désertique. Sert de point de rassemblement pour Kulth. Problèmes d'EN présents en nombre inconnu.
+
+Avitohol(O) : "Kapitale" de Grimtoof Git-slaver. Assaut orbital impérial complètement échoué. Déclaré monde interdit par l'inquisition.
+
+Karacallia (S-) : ensemble de planètes et de satellites riche en ressource et en main-d'oeuvre pour le dominion. Combats en court avec les orks et impériaux. Guerre "en saut de puce".
+
+Thrax (S-): monde très peuplé (féodal). Attaqué par des raids orks et quelques offensives impériales.
+
+Maesa (D) : ancien monde frontière envahi par les orks qui ont réduit en esclavage sa population. Bombardement massif par l'imperium, les combats continuent toujours à la surface.
+
+Orbiana(S):monde sauvage, plate-forme de défense orbitale ancienne présente. L'imperium envisage un assaut, les orks ont lancé des raids.
+
+Lukius (D) : monde en guerre entre le dominion et les orks. Déclaré comme le point que les orks ne dépasserait pas.
+
+Stalinthia (S) : monde industriel produisant la majeure partie des besoins du dominion.
+
+Fourtheden (S):agri-monde le plus important du dominion. Des portions ont été cédées aux EN, qui y chassent à loisir.
+
+Ohmsworld(S-) : monde-ruche à l'atmosphère toxique. L'impérium lance des offensives en essayant de ne pas endommager les ruches.ruemeur de présence EN
+
+Kokytos (D) : monde vidé par la guerre, dominion et impérium ont décrété que cela serait important. Il n'y a plus rien. Températures glaciales.
+
+Cuyavale (S-) : monde sauvage couvert de jungle. Abrite des dragons. Quelques positions orks et kroots.
+
+Augury (O) : petite panète à la réputation trouble. Les orks en ont la possession, mais celle-ci est menacée par les deux autres factions.
+
+Deluge (O) : premier monde tombé aux orks, monde aquatique. Présence d'un site religieux impérial.
+
+Iris (O) : monde mortel, que ce soit à cause de sa végétation(très dangereuse) ou de sa faune. Guerre entre orks sauvages et orks de grimtoof(snakebites, qui élèvent des squigs ici). Faible présence d'humains primitifs.
+
+KW-9 (O): monde vide, colonisé par les orks qui ont établi une sorte de base navale. Création de Roks.
+
+Lettum(O): monde frontière, réduit en esclavage par les orks.
+
+Porphyry(O) : monde aride exploité pendant un temps par le mechanicum. Envahi par les orks.Les troupes impériales envisagent une reprise de ceci pour plaire au mechanicum.
+
+Abysses Stygiens (C) : présence d'avant-postes du chaos
+
+Nox(C) : monde renégat, havre pour diverses factions hérétiques.
+
+Voluptua (I-) : planète impériale attaquée par les orks. Forte influence du chaos sur sa population.
+
+warzone epsilon (S) : agri-monde, protégé par le fort spatial lycurgos.
+
+hervara : monde disputé par l'imperium et les orks (mini-campagne)
