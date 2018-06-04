@@ -1,0 +1,34 @@
+désignation:
+S : stigmartus
+I : imperium
+H : hérétiques divers
+T : tau
+D : disputé
+
+Dakinor ? (H) : géante gaseuse, population sur des stations astéroïdes. Culte étrange et fanatique en affrontement avec l'IG.
+
+Execution Eternal(D:I/T) : navire de guerre désemparé. Théâtre d'affrontements violents entre taus et troupes impériales.
+
+Karlack (I) : monde-forteresse. Principale base impériale de la croisade Achillus. Noeud majeur du collier de fer.
+
+Khazant (D : I/S) : monde en guerre. Ancien coeur d'un empire corsaire d'où viennent ceux qui forment l'ossature du Stigmartus. Le pire des combats de la zone de guerre Cellebos s'y déroule.
+
+Vanité (D:I/S) : monde mort. Ancien monde-ruche. Combats aussi violents que sporadiques entre troupes capables de survivre à l'environnement  toxiques. Principal lieu de déploiement de l'Astartes et de leurs homologues hérétiques.
+
+La trinité de sang (S/H) : 3 mondes sauvages servant de sources de recrutement pour les forces du chaos de la région. Lourdement protégés par la flotte renégate et des troupes en nombre.
+
+Samech (H) : monde forge corrompu. Principal fournisseur d'armes et d'équipement pour les forces hérétiques du secteur.
+
+Pyrathas (I) : monde forteresse récent. Protégé autant par ses défenses impériales que par les radiations de son soleil. Localisation secret magenta. Possible "réduit" contre une invasion tyrannide. L'inquisition y gère quelques installations où y sont étudiés ces xenos.
+
+Les soeurs malsaines (I) : deux planètes Delphos et Iatos, identiques. Corruption latente par des cultes de slaanesh. Peu de personnel militaire.
+
+Vespasia (S) : monde prometteur où les hommes vivent en esclaves des mutants. Légèrement défendu par le Stigmartus
+
+Magog (H/S) : agri-monde corrompu, lourdement défendu par les troupes renégates.
+
+Tabius Rasa (?) : monde sauvage aquatique, peuplé d'humains et d'une sorte de lézard, parfois considérés comme citoyens.
+
+
+
+
