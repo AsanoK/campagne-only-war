@@ -1,3 +1,5 @@
-Premier largage dans le système de Karacallia, sur une des planètes rocheuses occupées
-
 objectif du premier largage : donner une impression "overlord" ou "bataille de crete" : première vague d'assaut sur une planète tenue par l'ennemi, prise de points stratégiques/fortifications en attente de renforts. Effet de surprise correct pour commencer la mission. S'attendre à plusieurs jours de combats sans repos, dans le meilleur des cas.
+
+Premier largage :
+équivalent d'overlord, afin de donner un vrai baptême du feu aux troupes. Le monde est mineur par rapport à la zone de guerre, mais les troupes ennemies sont plus nombreuses que prévu et ont quelques surprises dans leur manche.
+->document premier largage

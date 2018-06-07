@@ -1,0 +1,8 @@
+-La planète Sisk (cf OW) se trouve entre le collier de fer et la zone de guerre Celebos, de même qu'un strict équivalent de karacallia.
+-Tetrachus est maître de guerre et non seigneur militant commandant
+-le stigmartus est moins uni que dans le canon, avec des officers de rang équivalents parfois rivaux (notamment si ils ne vénèrent pas les mêmes entités).
+-ajout de fantassins plus basiques pour le stigmartus, plus proches du cultiste, et pouvant remplacer les troupes de ligne dans certains cas (suivant le chef de culte, la zone de guerre...)
+-ajout d'un profil d'officier subalterne du stigmartus, équivalent à un rang de sergent
+-màj des profils du stigmartus pour être plus cohérent avec les règles dd'OW
+-ajout de mondes secondaires dans la zone de guerre Celebos
+-saillant canis face à ddes orks plus que des 'nydes? Semble moins pertinent.
