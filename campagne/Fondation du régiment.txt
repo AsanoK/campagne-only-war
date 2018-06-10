@@ -26,8 +26,8 @@ C'est à ce moment que sont débloqués les compétences et talents régimentaires ai
 -BS : stand de tir
 -S : pompes!
 -T : courses interminables, et en chantant bande de moules !
--Ag : courses d'obstacles
--Int : cours théoriques sur la doctrine de combat du régiment, et le tactica imperialis
+-Ag : entrainement au saut
+-Int : cours théoriques sur la doctrine de combat du régiment, et le tactica imperialis (démolition)
 -Per : monter la garde devant la zone du régiment
 -WP : endoctrinement par les commissaires et prêtres du régiment.
 -Fel : corvées de patates (et marché noir...)
